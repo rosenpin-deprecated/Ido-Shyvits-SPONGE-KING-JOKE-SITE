@@ -1,0 +1,241 @@
+/* CSS Document */
+
+
+/*  Double Click Styles    */
+.DCbigbox { width: 300px; height: 250px; }
+
+.DCjambo { width: 683px; height: 60px; }
+
+
+.DCbox { width: 180px; height: 150px; }
+.DCtower { width: 160px; height: 600px; }
+
+/*  Double Click Styles    */
+
+#ChannlLeftColContent { clear: none; width: 220px; float: left; position: relative; margin-bottom: 5px; z-index: 0; }
+
+#ChannlRightColContent { clear: none; width: 555px; float: right; position: relative; margin-bottom: 5px; text-align: right; z-index: 0; }
+#cBody300 { clear: left; float: left; width: 300px; position: relative; margin: 0px; z-index: 0; }
+
+#cBody380 { float: left; width: 380px; position: relative; margin-left: 15px; z-index: 0; }
+
+
+#cBody586 { clear: left; float: left; width: 586px; position: relative; margin: 0px; z-index: 0; }
+#cBody586_Right { clear: right; float: right; width: 586px; position: relative; margin: 0px; z-index: 0; }
+
+#cBody286 { float: left; width: 286px; position: relative; margin-left: 4px; z-index: 0; }
+
+#cBody379 { float: left; width: 379px; position: relative; margin-left: 17px; z-index: 0; }
+
+
+#cBody180 { clear: right; float: right; width: 180px; margin: 0px; z-index: 0; }
+
+#cBody180Left { clear: Left; float: Left; width: 180px; margin: 0px; z-index: 0; }
+#c1HpL0 { font-size: 12px; clear: none; width: 775px; position: relative; margin-bottom: 5px; z-index: 0; }
+#MainTB { font-size: 12px; clear: none; width: 100%; position: relative; margin-bottom: 5px; z-index: 0; }
+
+
+
+#c1HpL1 { font-size: 12px; clear: none; float: left; width: 300px; position: relative; margin: 0px; background-image: url(images/portal/2006/hp_c1_news_bk1.gif); background-repeat: repeat-x; background-position: left top; z-index: 0; }
+#c1HpL2 { clear: left; float: right; width: 475px; position: relative; margin: 0px; background-image: url(images/portal/2006/hp_c1_news_bk1.gif); background-repeat: repeat-x; background-position: left top; z-index: 0; }
+
+#c1HpL3 { clear: left; float: left; width: 190px; position: relative; margin-right: 5px; z-index: 0; }
+#c1HpL4 { float: left; width: 425px; position: static; margin-right: 5px; z-index: 0; }
+#c1HpL5 { float: right; width: 150px; position: relative; z-index: 0; }
+
+
+.c1HpTvBox { border-left: 1pt solid #A3A3A3; border-right: 1pt solid #A3A3A3; width: 228px; height: 100px; background-color: #FDFBFE; font-size: 10px; }
+
+.c1HpBoxSpan { display: none; }
+
+
+.BoxCornerTL { background-image: url(images/portal/2006/box_cor_tl.gif); background-repeat: no-repeat; background-position: left top; height: 5px; width: 5px; font-size: 5px; }
+.BoxCornerTR { background-image: url(images/portal/2006/box_cor_tr.gif); background-repeat: no-repeat; background-position: right top; height: 5px; width: 5px; font-size: 5px; }
+.BoxCornerBR { background-image: url(images/portal/2006/box_cor_br.gif); background-repeat: no-repeat; background-position: right bottom; height: 5px; width: 5px; font-size: 5px; }
+.BoxCornerBL { background-image: url(images/portal/2006/box_cor_bl.gif); background-repeat: no-repeat; background-position: left bottom; height: 5px; width: 5px; font-size: 5px; }
+
+.c1HpNewsBk1 { background-image: url(images/portal/2006/hp_c1_news_bk1.gif); background-repeat: repeat-x; background-position: left top; }
+
+
+
+.c1HpNewsCorTop1 { border-top: 1pt solid #7D9820; background-color: #FAFAFA; font-size: 5px; }
+.c1HpNewsCorTop2 { border-bottom: 1pt solid #7D9820; background-color: #FAFAFA; font-size: 5px; }
+.c1Hp3NewsBody { width: 100%; border-left: 1pt solid #7D9820; background-color: #FAFAFA; height: 164px; }
+
+.chInBoxCorBL { background-attachment: fixed; background-image: url(images/portal/2006/inbox_corbl.gif); background-repeat: no-repeat; background-position: left bottom; height: 20px; width: 8px; }
+.chInBoxCorBR { background-attachment: fixed; background-image: url(images/portal/2006/inbox_corbr.gif); background-repeat: no-repeat; background-position: right bottom; height: 20px; width: 8px; }
+
+.chInBoxCorTL { background-attachment: fixed; background-image: url(images/portal/2006/hp_c1_dl_cor2.gif); background-repeat: no-repeat; background-position: left top; height: 10px; width: 10px; font-size: 5px; }
+.chInBoxCorTR { background-attachment: fixed; background-image: url(images/portal/2006/hp_c1_dl_cor1.gif); background-repeat: no-repeat; background-position: right top; height: 10px; width: 10px; font-size: 5px; }
+
+.chInBoxCorHeader { border-top: 1pt solid #A3A3A3; background-color: #FAFAFA; font-size: 5px; height: 10px; }
+
+
+.chInBoxCorFotBack { background-attachment: fixed; background-image: url(images/portal/2006/inbox_corback.gif); background-repeat: repeat-x; background-position: right bottom; height: 20px; font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #726E87; font-weight: bold; text-align: center; }
+
+
+
+
+.chInBoxCorFotBack A { font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #726E87; font-weight: bold; text-align: center; text-decoration: none; }
+
+
+.chInBoxCorFotBack :hover { font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: blue; font-weight: bold; text-align: center; text-decoration: underline; }
+
+
+
+
+.ch1TopDLBody { border-left: 1pt solid #A3A3A3; border-right: 1pt solid #A3A3A3; background-color: #FAFAFA; width: 465px; height: 121px; }
+
+.c1HpZoneBox1 { background-color: #D0F1FA; width: 425px; height: 128px; }
+
+.c1HpZoneBox2 { background-color: #FFB816; width: 425px; height: 128px; }
+.c1HpZoneBox3 { background-color: #B3E258; width: 425px; height: 128px; }
+.dispNone { display: none; }
+.dispSohw { }
+
+.ch1NewsFlashBody { font-family: arial; font-size: 11px; border-left: 1pt solid #A3A3A3; border-right: 1pt solid #A3A3A3; background-color: #FAFAFA; width: 150px; height: 114px; }
+.ch1NewsFlashBK { padding-right: 4px; padding-left: 4px; font-family: arial; font-size: 11px; width: 150px; height: 134px; background-image: url(images/Portal/2006/c1_newsflash_bk.gif); background-repeat: repeat-x; background-position: left top; }
+.ch1TopForumHp { float: left; background-color: #F6F6F6; width: 210px; height: 230px; position: relative; }
+.ch1TopSitsHp { float: right; background-color: #E3F6FA; width: 210px; height: 230px; position: relative; }
+
+
+.c1GrayBorder { width: 100%; background-attachment: fixed; background-image: url(images/portal/2006/c1_gen_border.gif); background-repeat: repeat-x; height: 1px; font-size: 1px; }
+.c1TopDlThumbs { margin: 1px; border: 1pt solid #C0D6ED; cursor: pointer; }
+
+.c1Top3Scops { border: 1pt solid #6B9913; }
+
+.c5TopScops { border: 1pt solid #FFC000; }
+.c5MoreScops { border: 1pt solid #509FD1; }
+
+.c1TopForumPostsOff { width: 96%; color: #777777; font-family: arial; font-size: 13px; font-weight: bold; text-align: right; height: 22px; cursor: pointer; }
+
+.c1TopForumPostsOn { width: 96%; color: #777777; font-family: arial; font-size: 13px; font-weight: bold; text-align: right; height: 22px; cursor: pointer; background-color: #F5FCD9; background-image: url(images/Portal/news_over.gif); }
+.c1SiteOfTheWeekTitle { font-size: 18px; font-weight: bold; color: #3189B1; text-decoration: none; }
+
+
+.c1RandGameTitle { font-family: arial; font-size: 14px; color: #E78C17; font-weight: bold; text-decoration: none; }
+.c1RandGameTitle A { font-family: arial; font-size: 14px; color: #E78C17; font-weight: bold; text-decoration: none; }
+.c1RandGameTitle :hover { font-family: arial; font-size: 14px; color: #FF5A00; font-weight: bold; text-decoration: underline; }
+
+
+.c1GreenMtext { font-family: arial; font-size: 13px; color: #7EB01C; font-weight: bold; text-decoration: none; }
+.c1GreenMtext A { font-family: arial; font-size: 13px; color: #7EB01C; font-weight: bold; text-decoration: none; }
+
+.c1GreenMtext :hover { font-family: arial; font-size: 13px; color: #7EB01C; font-weight: bold; text-decoration: underline; }
+
+
+
+.c1Top3ScopOff { width: 100%; color: #608D09; font-family: arial; font-size: 12px; font-weight: bold; text-align: right; cursor: pointer; height: 25px; }
+
+.c1Top3ScopOn { height: 25px; width: 100%; color: #608D09; font-family: arial; font-size: 12px; font-weight: bold; text-align: right; cursor: pointer; background-color: #F5FCD9; background-image: url(images/Portal/news_over.gif); }
+
+.c1Top3ScopChTitle { color: #608D09; font-family: arial; font-size: 10px; font-weight: normal; line-height: 10px; }
+
+
+.TalkBackTitle { font-family: arial; font-size: 13px; font-weight: bold; }
+.TalkBackRateLink { font-family: arial; font-size: 11px; font-weight: bold; color: blue; }
+
+.TalkBackAdminRep { font-family: arial; font-size: 13px; font-weight: bold; color: red; text-decoration: underline; }
+
+.ChannelNewsHeader { background-image: url(images/Portal/cat_tite_mbk.gif); background-repeat: no-repeat; background-position: left top; font-size: 16px; font-weight: bold; width: 524px; padding: 0px; }
+.ChannelNewsBody { font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: black; width: 522px; _width: 530px; background-image: url(images/Portal/arts_bk.gif); background-repeat: repeat-x; background-position: left bottom; padding: 8px; text-align: right; }
+.ChannelNewsLinks { font-family: arial; font-size: 13px; color: #000000; font-weight: bold; }
+
+.ChannelNewsLinks A { font-family: arial; font-size: 13px; color: Blue; font-weight: bold; }
+
+.ChannelNewsButs { color: #2B5595; font-family: arial; font-size: 12px; font-weight: bold; cursor: pointer; border: 1pt solid #95AEE0; background-color: white; }
+.ChannelNewsSection { font-family: arial; font-size: 13px; color: #000000; font-weight: bold; }
+
+
+.ChannelNewsShade1 { background-image: url(images/portal/l_mbk1.gif); background-repeat: repeat-x; background-position: left top; font-size: 13px; width: 100%; }
+.ChannelJumpMenuBT { font-family: arial; font-size: 12px; color: #FFFFFF; font-weight: bold; background-color: #4FB200; border: 1pt solid #BEF900; cursor: pointer; background-image: url(images/portal/2006/jumpmenubt_bk.gif); background-repeat: repeat-x; background-position: left top; }
+.ChannelSearchMenuText { font-family: arial; font-size: 12px; color: #FFFFFF; font-weight: bold; }
+
+.ChannelinHeaderSpace { height: 7px; font-size: 7px; width: 100%; }
+
+.c1TopRateSitesOff { width: 96%; color: #1B7CA8; font-family: arial; font-size: 13px; font-weight: bold; text-align: right; height: 22px; cursor: pointer; }
+
+.c1TopRateSitesOn { width: 96%; color: #1B7CA8; font-family: arial; font-size: 13px; font-weight: bold; text-align: right; height: 22px; cursor: pointer; background-color: #F5FCD9; background-image: url(images/Portal/2006/c1_ratesiteson.gif); }
+
+
+.c1BlueMtext { font-family: arial; font-size: 13px; color: Blue; font-weight: bold; text-decoration: none; }
+.c1BlueMtext A { font-family: arial; font-size: 13px; color: Blue; font-weight: bold; text-decoration: none; }
+
+.c1BlueMtext :hover { font-family: arial; font-size: 13px; color: Blue; font-weight: bold; text-decoration: underline; }
+
+.c1HpClickBorder { border-bottom: 1pt dotted #FFC747; }
+
+.c1OrangeMtext { font-family: arial; font-size: 13px; color: #FF7916; font-weight: bold; text-decoration: none; }
+.c1OrangeMtext A { font-family: arial; font-size: 13px; color: #FF7916; font-weight: bold; text-decoration: none; }
+
+.c1OrangeMtext :hover { font-family: arial; font-size: 13px; color: #FF7916; font-weight: bold; text-decoration: underline; }
+
+#c3HpL1 { clear: none; float: left; width: 300px; position: relative; margin: 0px; z-index: 0; }
+#c3HpL2 { /*	clear: left;*/ float: right; width: 475px; position: relative; margin: 0px; margin-left: -40px; margin-bottom: 10px; }
+.c3TopSite { background-image: url(/apps/zone/images/2006/b_tw_bk1.gif); background-repeat: repeat-x; background-position: left top; }
+.c3RegSite { background-image: url(/apps/zone/images/2006/new_s_bk.gif); background-repeat: no-repeat; background-position: left top; width: 470px; height: 80px; }
+
+
+
+
+.cellBox_Pic { border: 1pt solid #E84700; }
+.cellBox_Title { font-family: arial; font-size: 12px; color: #000000; font-weight: bold; }
+
+.c5_ImHpNewsTitle { font-family: arial; font-size: 15px; color: #FD8300; font-weight: bold; text-decoration: none; }
+
+.c5_ImHpNewsTitle A { font-family: arial; font-size: 15px; color: #FD8300; font-weight: bold; text-decoration: none; }
+
+.c5_ImHpNewsTitle :hover { font-family: arial; font-size: 15px; color: red; font-weight: bold; text-decoration: underline; }
+
+
+.c5_ImHpNewsText { font-family: arial; font-size: 12px; color: #000000; font-weight: normal; }
+
+#c5Hp_Forum { height: 180px; width: 300px; margin: 0px; background-image: url(images/portal/2006/c5_forumbk.gif); background-repeat: repeat-x; background-position: left top; }
+#c5Hp_Scops { height: 180px; width: 286px; margin: 0px; background-image: url(images/portal/2006/c5_scopsbk2.gif); background-repeat: repeat-x; background-position: left top; }
+
+.c5TopForumPostsOff { width: 96%; color: #FF6600; font-family: arial; font-size: 13px; font-weight: bold; text-align: right; height: 22px; cursor: pointer; }
+
+.c5TopForumPostsOn { width: 96%; color: #FF6600; font-family: arial; font-size: 13px; font-weight: bold; text-align: right; height: 22px; cursor: pointer; background-color: #FFE8A0; }
+
+
+.c5MoreScopsOff { width: 96%; color: #094A73; font-family: arial; font-size: 13px; font-weight: bold; text-align: right; height: 22px; cursor: pointer; border-bottom: 1pt dotted white; }
+
+.c5MoreScopOn { width: 96%; color: #094A73; font-family: arial; font-size: 13px; font-weight: bold; text-align: right; height: 22px; cursor: pointer; border-bottom: 1pt dotted white; background-color: #B6DEF7; }
+
+#c5Hp_imgo { height: 180px; width: 180px; margin: 0px; background-image: url(images/portal/2006/im_tipogo_bk.gif); background-repeat: repeat-x; background-position: left top; }
+
+
+.c5_GoLinks_Off { width: 96%; color: #566E0E; font-family: arial; font-size: 12px; font-weight: bold; text-align: right; height: 22px; cursor: pointer; }
+
+.c5_GoLinks_On { width: 96%; color: blue; font-family: arial; font-size: 12px; font-weight: bold; text-align: right; height: 22px; cursor: pointer; }
+
+.c5HpMsnBox { border-left: 1pt solid #A3A3A3; border-right: 1pt solid #A3A3A3; /*	width: 286px;*/ height: 110px; background-color: #FDFBFE; font-size: 10px; overflow: auto; scrollbar-face-color: #FFFFFF; scrollbar-highlight-color: #75C0F0; scrollbar-3dlight-color: #75C0F0; scrollbar-darkshadow-color: #75C0F0; scrollbar-shadow-color: #75C0F0; scrollbar-arrow-color: #75C0F0; scrollbar-track-color: #ffffff; }
+.c5HpIcqBox { border-left: 1pt solid #A3A3A3; border-right: 1pt solid #A3A3A3; /*	width: 300px;*/ height: 110px; background-color: #FDFBFE; font-size: 10px; overflow: auto; scrollbar-face-color: #FFFFFF; scrollbar-highlight-color: #4DAB27; scrollbar-3dlight-color: #4DAB27; scrollbar-darkshadow-color: #4DAB27; scrollbar-shadow-color: #4DAB27; scrollbar-arrow-color: #4DAB27; scrollbar-track-color: #ffffff; }
+
+.c5HpDlBox { border-left: 1pt solid #A3A3A3; border-right: 1pt solid #A3A3A3; width: 379px; height: 140px; background-color: #FDFBFE; font-size: 10px; overflow: auto; scrollbar-face-color: #FFFFFF; scrollbar-highlight-color: #FFBA00; scrollbar-3dlight-color: #FFBA00; scrollbar-darkshadow-color: #FFBA00; scrollbar-shadow-color: #FFBA00; scrollbar-arrow-color: #FFBA00; scrollbar-track-color: #ffffff; }
+
+.c5_MsnLinks_Off { width: 96%; color: #195C80; font-family: arial; font-size: 12px; font-weight: bold; text-align: right; height: 22px; cursor: pointer; }
+.c5_MsnLinks_On { width: 96%; color: Blue; font-family: arial; font-size: 12px; font-weight: bold; text-align: right; height: 22px; cursor: pointer; }
+
+
+.c5_IcqLinks_Off { width: 96%; color: #316B18; font-family: arial; font-size: 12px; font-weight: bold; text-align: right; height: 22px; cursor: pointer; }
+.c5_IcqLinks_On { width: 96%; color: Blue; font-family: arial; font-size: 12px; font-weight: bold; text-align: right; height: 22px; cursor: pointer; }
+
+.c5_CatsInMenu { color: #FFAE00; font-family: arial; font-size: 16px; font-weight: bold; text-align: right; text-decoration: none; }
+.c5_CatsInMenu A { color: #FFAE00; font-family: arial; font-size: 16px; font-weight: bold; text-align: right; text-decoration: none; }
+
+.c5_CatsInMenu :hover { color: blue; font-family: arial; font-size: 16px; font-weight: bold; text-align: right; }
+
+.channel_TopNews_TItle { color: #4797AC; font-family: arial; font-size: 16px; font-weight: bold; text-align: right; text-decoration: none; }
+
+.channel_TopNews_TItle A { color: #4797AC; font-family: arial; font-size: 16px; font-weight: bold; text-align: right; text-decoration: none; }
+
+.channel_TopNews_TItle :hover { color: blue; font-family: arial; font-size: 16px; font-weight: bold; text-align: right; text-decoration: none; }
+.TipoNews_SLiderBk1 { background-image: url(images/portal/2006/ch1_slideshow_bk.gif); background-repeat: no-repeat; background-position: left top; height: 25px; }
+
+.cl_GamezBox_UserName_Off { color: #FF6600; font-family: arial; font-size: 13px; font-weight: bold; text-align: right; text-decoration: none; }
+.cl_GamezBox_UserName_On { color: #FF6600; font-family: arial; font-size: 13px; font-weight: bold; text-align: right; text-decoration: none; background-color: #F1F0F9; }
+
+
+.GalleryImgWrapper{ width: 112px; height: 84px; margin-left: auto; margin-right: auto; }
+.ScopGalleryDiv { width: 124px; float: left; text-align: center; display: inline; vertical-align: top; }

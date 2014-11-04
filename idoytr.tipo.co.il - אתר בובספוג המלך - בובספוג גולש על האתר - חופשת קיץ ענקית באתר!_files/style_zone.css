@@ -1,0 +1,222 @@
+/* Style spec's for tooltip  */
+#ticklnk{
+
+	FILTER:progid:DXImageTransform.Microsoft.Pixelate()
+}
+
+
+.tickerStyle {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:12px; 
+	font-weight:bold;
+	color:Blue; 
+	/*border:#666666 solid 1px; */
+	width:250px; 
+	text-decoration:none; 
+	text-align:right; 
+
+
+}
+
+.ZoneSiteUrl{
+	font-family: Arial, Helvetica, sans-serif;
+	COLOR: #7C7A7A;
+	font-weight : bold;
+	font-size : 17 px;
+	padding-left:5px;
+	
+}
+.ZoneBarToolbar_btOff
+{
+border :1pt solid #B7B7B7;
+cursor:pointer;
+
+}
+.ZoneBarToolbar_btOn
+{
+border :1pt solid #9FDA2D;
+cursor:pointer;
+margin-right:2px;
+margin-bottom:3px;
+
+}
+
+
+
+
+.required {
+	COLOR: #ff0000
+	}
+.required_big {
+	COLOR: #ff0000;
+	font-weight : bold;
+	font-size : 14 px;
+	height : 18 px;
+}
+.text {
+	COLOR: #000000;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+
+}
+
+.text A{
+	COLOR:blue;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight:bold;
+
+}
+
+.text {
+	COLOR: #000000;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+
+}
+.viewmenu {
+	FONT-WEIGHT: bold;
+	COLOR: #363636;
+	LETTER-SPACING: 1px;
+	TEXT-DECORATION: none;
+}
+
+.heading {
+	PADDING-LEFT: 5px; FONT-WEIGHT: bold; COLOR: #000000; HEIGHT: 16px; BACKGROUND-COLOR: #cad2d9; FONT-SIZE: 14PX
+}
+INPUT.niceinput {
+	BORDER-RIGHT: #cad2d9 1px solid;
+	BORDER-TOP: #cad2d9 1px solid;
+	FONT-SIZE: 10px;
+	BORDER-LEFT: #cad2d9 1px solid;
+	BORDER-BOTTOM: #cad2d9 1px solid;
+	FONT-FAMILY: verdana;
+	BACKGROUND-COLOR: #ffffff
+}
+INPUT.radioinput {
+	BORDER-RIGHT: #cad2d9;
+	BORDER-TOP: #cad2d9;
+	FONT-SIZE: 11px;
+	BORDER-LEFT: #cad2d9;
+	BORDER-BOTTOM: #cad2d9;
+	FONT-FAMILY: verdana;
+	BACKGROUND-COLOR: #ffffff
+}
+A {
+	FONT-SIZE: 10px; COLOR: #006699; TEXT-DECORATION: underline
+}
+A:hover {
+	TEXT-DECORATION: underline
+}
+A.large {
+	FONT-SIZE: 12px;
+	COLOR: #006699;
+	TEXT-DECORATION: underline;
+	font-weight : bold;
+}
+.largedisabled {
+	FONT-SIZE: 12px;
+	COLOR: Gray;
+	TEXT-DECORATION: underline;
+	font-weight : bold;
+}
+TEXTAREA {
+	BORDER-RIGHT: #cad2d9 1px solid; BORDER-TOP: #cad2d9 1px solid; FONT-SIZE: 11px; BORDER-LEFT: #cad2d9 1px solid; BORDER-BOTTOM: #cad2d9 1px solid; FONT-FAMILY: verdana
+}
+SELECT{
+	BORDER-RIGHT: #cad2d9 1px solid; BORDER-TOP: #cad2d9 1px solid; FONT-SIZE: 11px; BORDER-LEFT: #cad2d9 1px solid; BORDER-BOTTOM: #cad2d9 1px solid; FONT-FAMILY: verdana
+}
+.dochead {
+	FONT-WEIGHT: bold;
+	FONT-SIZE: 16;
+}
+TD {
+	FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.topSheet {
+	BORDER-TOP: #006699 1px solid; BACKGROUND-COLOR: #f5f5f5
+}
+.blue_headline {
+	FONT-WEIGHT: bold;
+	FONT-SIZE: 12px;
+	COLOR: #3221CB;
+	HEIGHT: 15px;
+	text-decoration : underline;
+}
+.blue_headline_big {
+	FONT-WEIGHT: bold;
+	FONT-SIZE: 22px;
+	COLOR: #3221CB;
+	HEIGHT: 25px;
+	text-decoration : underline;
+}
+.hr{
+	color : #006699;
+}
+.menu{
+	border-color : #cbcbcb;
+}
+.copy{
+	color : #cbcbcb;
+}
+.descr{
+	color : Gray;
+}
+.bluetext{
+	color : #006699;
+}.Navoff {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #31456F;
+	background-color: #FFDD67;
+	cursor: pointer;
+
+}
+.Navon {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #000000;
+	background-color: #FFE68F;
+	cursor: pointer;
+
+}
+.fbk1 {
+	background-image: url(../images/f_topbk.jpg);
+	background-repeat: repeat-x;
+	background-position: top;
+}
+.MngLocBar {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	color: #7B9A1E;
+	text-decoration:none;
+
+}
+.MngLocBar A{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	color: Blue;
+	text-decoration:none;
+
+}
+.MngLocBar :hover{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	color: Blue;
+	text-decoration:underline;
+
+}
+
+#main_k_container img{border:0}
+#main_k_container{width:775px;height:180px;margin:auto;background-image:url(images/body_k_bg.jpg);background-position:top center;position:relative;background-repeat:no-repeat;margin-bottom:8px}
+#angeles_ticket_k a{background-image:url(images/angeles_ticket_k.png);position:absolute;bottom:0px;left:5px;}
+#angeles_5_k_sms_btn a{background-image:url(images/angeles_5_k_sms_btn.jpg);position:absolute;top:95px;right:310px;}
+#angeles_5_k_int_btn a{background-image:url(images/angeles_5_k_int_btn.jpg);position:absolute;top:94px;right:143px;}
+#angeles_5_k_open_btn a{background-image:url(images/angeles_5_k_open_btn.jpg);position:absolute;bottom:9px;right:124px;}
+#angeles_5_k_twit_btn a{background-image:url(images/angeles_5_k_twit_btn.jpg);position:absolute;bottom:38px;right:2px;}
+#angeles_5_k_facebook_btn a{background-image:url(images/angeles_5_k_facebook_btn.jpg);position:absolute;bottom:2px;right:2px;}

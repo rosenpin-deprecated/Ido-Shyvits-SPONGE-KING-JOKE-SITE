@@ -1,0 +1,68 @@
+.LeftOzenBannerSryle { position: absolute; right: 5px; top: 30px; width: 120px; height: 600px; }
+.CatsBar_Green_Bk { height: 29px; background-image: url("images/portal/nav_c_bk1.gif"); background-repeat: repeat-x; background-position: left top; }
+.CatsBar_Green_Cr1 { width: 14px; height: 29px; background-image: url("images/portal/nav_cr1.gif"); background-repeat: no-repeat; background-position: left top; }
+
+.CatsBar_Green_Cr2 { width: 14px; height: 29px; background-image: url("images/portal/nav_cr2.gif"); background-repeat: no-repeat; background-position: right top; }
+
+.CatsBar_Yellow_Bk { height: 29px; background-image: url("images/portal/cat_cr6.gif"); background-repeat: repeat-x; background-position: left top; }
+.CatsBar_Yellow_Cr1 { width: 9px; height: 29px; background-image: url("images/portal/cat_cr4.gif"); background-repeat: no-repeat; background-position: left top; }
+
+.CatsBar_Yellow_Cr2 { width: 9px; height: 29px; background-image: url("images/portal/cat_cr5.gif"); background-repeat: no-repeat; background-position: right top; }
+
+
+
+
+
+.NavOff { font-family: Arial, Helvetica, sans-serif; font-size: 13px; font-weight: bold; color: #3B5007; text-align: center; cursor: hand; padding-right: 1px; padding-left: 1px; height: 25; }
+.NavOn { font-family: Arial, Helvetica, sans-serif; font-size: 13px; font-weight: bold; color: 3B5007; text-align: center; cursor: hand; border-top-width: 0px; border-right-width: 1px; border-bottom-width: 0px; border-left-width: 1px; border-top-style: none; border-right-style: solid; border-bottom-style: none; border-left-style: solid; border-right-color: #F3F8E7; border-left-color: #84A625; background-color: #AAD246; height: 25; }
+.SubNavOff { font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; color: #454CBB; text-align: center; cursor: hand; height: 25; }
+.SubNavOn { font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; color: #FFFFFF; text-align: center; cursor: hand; background-color: #AAD246; height: 25; }
+.Mtext { font-family: Arial, Helvetica, sans-serif; font-size: 11px; font-weight: normal; color: #000000; }
+.MainScopBk { font-family: Arial, Helvetica, sans-serif; background-image: url(images/Portal/main_scop_bk.gif); background-repeat: no-repeat; background-position: left bottom; font-size: 11px; font-weight: normal; color: #666666; }
+.MainScoopHead { font-family: Arial, Helvetica, sans-serif; font-size: 16px; color: #1787A7; font-weight: bold; }
+.HomecatTitle { font-family: Arial, Helvetica, sans-serif; font-size: 16px; font-weight: bold; color: #1A3C7B; }
+.HPcatTitle { font-family: Arial, Helvetica, sans-serif; font-size: 16px; font-weight: bold; color: #1A3C7B; }
+.SearchTab { font-family: Arial, Helvetica, sans-serif; font-size: 13px; font-weight: bold; color: #04183A; text-align: center; cursor: hand; }
+body { font-family: Arial, Helvetica, sans-serif; scrollbar-face-color: #FFFFFF; scrollbar-highlight-color: #BFE453; scrollbar-3dlight-color: #BFE453; scrollbar-darkshadow-color: #BFE453; scrollbar-shadow-color: #BFE453; scrollbar-arrow-color: #BFE453; scrollbar-track-color: #ffffff; }
+.fsearchf1 { font-family: Arial, Helvetica, sans-serif; font-size: 11px; font-weight: bold; color: #003399; background-color: #FFFFFF; border: none; }
+.ConBoxBK { background-image: url(images/Portal/ic_mbk.gif); background-repeat: repeat-x; background-position: left top; }
+.NewsOFF { font-family: Arial, Helvetica, sans-serif; font-size: 11px; font-weight: normal; color: #003300; background-color: #F5FCD9; cursor: hand; }
+.NewsON { font-family: Arial, Helvetica, sans-serif; font-size: 11px; font-weight: bold; color: #000000; background-color: #F5FCD9; cursor: hand; background-image: url(images/Portal/news_over.gif); }
+
+.NewsOFFGamez { font-family: Arial, Helvetica, sans-serif; font-size: 11px; font-weight: normal; color: #003300; background-color: #F5FCD9; cursor: hand; }
+.NewsOnGamez { font-family: Arial, Helvetica, sans-serif; font-size: 11px; font-weight: bold; color: #000000; background-color: #F5FCD9; cursor: hand; background-image: url(images/Portal/news_over.gif); }
+
+.Scop { background-color: #F5FCD9; width: 50%; }
+.NewsWarper {font-family: Arial, Helvetica, sans-serif; font-size: 11px; font-weight: normal; color: #003300; background-color: #F5FCD9; cursor: pointer; height:41px; width: 100%; }
+.NewsWarper_hlite { font-family: Arial, Helvetica, sans-serif; font-size: 11px; font-weight: bold; color: #000000; background-color: #F5FCD9; cursor: pointer; background-image: url(images/Portal/news_over.gif); background-repeat:repeat-x; height:41px; width: 100%; }
+.NewsWarper .img { float: left; }
+.NewsWarper_hlite .img { float: left; }
+
+.NewsWarper .title { float: right; font-size: 12px; font-weight: normal; }
+.NewsWarper_hlite .title { float: right; font-size: 12px; font-weight: normal; }
+.NewsWarper .title .channel { font-size: 11px; font-weight: normal; }
+.NewsWarper_hlite .title .channel { font-size: 11px; font-weight: normal; }
+
+.NewsOFF2 { font-family: Arial, Helvetica, sans-serif; font-size: 11px; font-weight: normal; color: #003300; background-color: #FBFDCA; cursor: hand; }
+.NewsON2 { font-family: Arial, Helvetica, sans-serif; font-size: 11px; font-weight: bold; color: #000000; background-color: #FBFDCA; cursor: hand; background-image: url(images/Portal/news_over2.gif); }
+
+.NewsOFF3 { font-family: Arial, Helvetica, sans-serif; font-size: 11px; font-weight: normal; color: #003300; background-color: #FEF0FF; cursor: hand; }
+.NewsON3 { font-family: Arial, Helvetica, sans-serif; font-size: 11px; font-weight: bold; color: #000000; background-color: #FEF0FF; cursor: hand; background-image: url(images/Portal/news_over3.gif); }
+
+.PageOFF { font-family: Arial, Helvetica, sans-serif; font-size: 11px; font-weight: bold; color: #0000CC; background-image: url(images/Portal/page_off.gif); background-repeat: no-repeat; background-position: center center; height: 16px; width: 16px; cursor: hand; text-decoration: none; text-align: center; }
+.PageON { font-family: Arial, Helvetica, sans-serif; font-size: 11px; font-weight: bold; color: #333333; background-image: url(images/Portal/page_on.gif); background-repeat: no-repeat; background-position: center center; height: 16px; width: 16px; text-align: center; }
+.boxMBK { font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; color: #000000; background-image: url(images/Portal/cat_tite_mbk.gif); background-repeat: no-repeat; background-position: left top; }
+.ArtsTtile { font-family: Arial, Helvetica, sans-serif; font-size: 19px; font-weight: bold; color: #4C80C0; }
+.ArtsBK { font-family: Arial, Helvetica, sans-serif; background-image: url(images/Portal/arts_bk.gif); background-repeat: repeat-x; background-position: left bottom; }
+.RepBK { font-family: Arial, Helvetica, sans-serif; background-image: url(images/Portal/rep_bk1.gif); background-repeat: repeat-x; background-position: left bottom; }
+.MainScopPage { font-family: Arial, Helvetica, sans-serif; background-image: url(images/Portal/inArtBK.gif); background-repeat: no-repeat; background-position: left top; font-size: 11px; font-weight: normal; color: #666666; }
+.Tlinks { font-family: Arial, Helvetica, sans-serif; font-size: 11px; font-weight: normal; color: #214F7F; text-decoration: none; }
+.Tlinks A { font-family: Arial, Helvetica, sans-serif; font-size: 11px; font-weight: normal; color: #214F7F; text-decoration: none; }
+.Tlinks :hover { font-family: Arial, Helvetica, sans-serif; font-size: 11px; font-weight: normal; color: blue; text-decoration: none; }
+.ButsBk { font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; color: #FFFFFF; background-repeat: repeat-x; cursor: hand; background-position: center bottom; background-color: #7B95C8; border: 1px solid #4F6591; }
+.DLtext { font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; color: #476193; }
+
+.close-message { font-family: Arial; width: 100%; color: #58058d; background-color: #5ccffb; font-size: 16pt; height: 438px; overflow: hidden; direction: rtl; }
+    .close-message .title { margin: 10px auto 15px auto; font-size: 22.5pt; display: block; text-align: center; font-weight: bold; text-decoration: underline; }
+    .close-message .negative-paragraph { background-color: #350653; color: #fff; font-size: 16pt;  width: 90%; margin: 5px auto 10px auto; display: block; text-align: center; padding: 10px 10px; }
+    .close-message .regular-paragraph { color: #58058d; font-size: 16px;  width: 90%; margin: 5px auto 10px auto; display: block; text-align: center; padding: 4px 5px; }

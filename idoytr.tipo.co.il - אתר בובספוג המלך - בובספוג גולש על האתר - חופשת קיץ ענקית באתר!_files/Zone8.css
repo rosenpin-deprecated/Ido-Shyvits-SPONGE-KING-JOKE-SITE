@@ -1,0 +1,68 @@
+BODY {
+	COLOR: #000000;
+	FONT-FAMILY:  Arial;
+	TEXT-DECORATION: none;
+	background-color : #FCFF00;
+
+}
+.ZoneMainBG
+{
+background-color : #FCFF00;
+}
+
+.ZoneMainBorder
+{
+background-color :#FFD800;
+}
+
+.LinkBarBG
+{
+border:1pt solid #FFD800;
+background-color : #FCFF00;
+cursor:pointer;
+font-weight:bold;
+COLOR: #000000;
+}
+
+.LinkBarActive
+{
+border:1pt solid #FFD800;
+background-color : #FFD800;
+cursor:pointer;
+font-weight:bold;
+COLOR: black;
+}
+
+
+
+
+.news_Titles
+{
+background-color :#FFD800;
+COLOR: black;
+FONT-FAMILY:  Arial;
+TEXT-DECORATION: none;
+font-size:14px;
+
+}
+
+.UserBar
+{
+border:1pt solid #FFD800;
+background-color : #FEFFA5;
+
+}
+
+.UserBarText
+{
+COLOR: #000000;
+}
+
+
+.Article_Body
+{
+COLOR: #000000;
+FONT-FAMILY:  Arial;
+font-size:12px;
+background-color : #FFFFBF;
+}

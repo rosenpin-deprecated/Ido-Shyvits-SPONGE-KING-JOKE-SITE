@@ -1,0 +1,23 @@
+﻿
+
+#main_article_icons ul li{display:block;width:14px;float:left;padding:0 1px 0 0;}
+#main_article_icons ul li.share{width:120px;}
+#main_article_icons ul li a{/*background-image:url(../images/main_article_sprite.gif);background-repeat:no-repeat;*/ display:block;}
+ #main_article_icons {float:left;margin:2px 0 26px -4px;#margin:2px 0 0px -4px;height:10px;#height:23px;}
+#main_article_icons ul li.facebook{height:22px; width:24px!important;overflow:hidden;}
+#main_article_icons ul li.facebook a{height:20px;width:20px;}
+#main_article_icons ul li.twitter{cursor:pointer;cursor:hand;width:24px!important; height:22px;overflow:hidden;}
+ #main_article_icons ul li.ICQ{width:24px;height:22px;overflow:hidden;} 
+ .icq-wit{width:16px;height:16px; margin:4px!important;}
+li.divRight{float:right;display:block; width:350px; text-align:right;margin:10px 100px 0 0;}
+li.divLeft{float:left;display:block; width:220px;text-align:right;margin:10px;}
+span.toRight{float:right;text-align:right;margin:10px;width:30px}
+.strBody{width:860px;}
+td.pxLft{margin:1px;}
+/*td p{margin:10px;text-align:right;} */
+td.gm img{padding:0 0 0 1px;}
+/*#fb_game td img {
+margin-right:-3px;
+}
+*/
+/**/

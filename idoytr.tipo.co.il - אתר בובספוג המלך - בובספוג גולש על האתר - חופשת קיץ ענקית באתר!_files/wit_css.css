@@ -1,0 +1,20 @@
+.wit_main{position:absolute;background-color:#fff;border:solid #7BAFB5 1px;width:160px;font-family:arial, sans-serif;font-size:11px;}
+.wit_tit{padding:5px;font-weight:700;font-family:arial, sans-serif;font-size:11px;}
+.wit_cnt_txt2{position:absolute;margin-left:15px;bottom:2px;font-weight:normal;color:#000;font-family:arial, sans-serif;font-size:11px;}
+.wit_top{float:left;position:relative;width:100%;height:25px;line-height:25px;background-color:#b6e098;background-repeat:no-repeat;border-bottom: 1px solid #7bafb5;filter:progid:DXImageTransform.Microsoft.Gradient(GradientType=1,StartColorStr='#97cc7c',EndColorStr='#d3f1b3');text-align:right;font-family:arial, sans-serif;font-size:11px;}
+.wit_logo{position:absolute;top:14px;left:4px;font-family:arial, sans-serif;font-size:11px;}
+a.wit:link,a.wit:hover,a.wit:visited{font-weight:normal;color:#348487;font-family:arial, sans-serif;font-size:11px;}
+.wit_btn{margin:5px;width:63px;color:#10596c;font-family:arial,sans-serif;font-size:12px;font-weight:700;background-color:#b6e098;border: 1px solid;border-top-color:#8fc89b;border-left-color:#8fc89b;border-right-color:#61b68f;border-bottom-color:#61b68f;filter:progid:DXImageTransform.Microsoft.Gradient(GradientType=0,StartColorStr='#d3f1b3',EndColorStr='#97cc7c');text-align:center;cursor:pointer;}
+.wit_grp{padding-left:5px;font-weight:700;color:#287B77;clear:both;font-family:arial, sans-serif;font-size:11px;}
+.wit_grp_t{}
+.wit_cnt_cb{position:relative;float:left;font-family:arial, sans-serif;font-size:11px;z-index:1000;}
+.wit_cnt_img{position:relative;float:left;top:2px;font-family:arial, sans-serif;font-size:11px;}
+.wit_cnt_txt{position:relative;padding-left:3px;padding-right:3px;height:20px;line-height:20px;width:75px;overflow:hidden;text-overflow:ellipsis;font-weight:normal;color:#000;font-family:arial, sans-serif;font-size:11px;}
+.wit_cnt_he{float:right;position:relative;height:20px;line-height:20px;clear:both;font-family:arial, sans-serif;font-size:11px;}
+.wit_cnt_cb_he{position:relative;float:right;font-family:arial, sans-serif;font-size:11px;}
+.wit_cnt_img_he{position:relative;float:right;top:2px;font-family:arial, sans-serif;font-size:11px;}
+.wit_cnt_txt_he{position:relative;float:right;padding-right:3px;width:65px;font-weight:normal;color:#000;font-family:arial, sans-serif;font-size:11px;}
+.wit_cnt_txt1{position:relative;font-weight:normal;color:#000;font-family:arial, sans-serif;font-size:11px;}
+.icq_wit_logo{background-repeat:no-repeat;color:#FFFFFF; float:left;text-align:left;width:52px;height:22px;padding:0;margin:0;background-color:transparent;/* Mozilla ignores crazy MS image filters, so it will skip the following */ filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=image, src='http://wit.icq.com/wit/img/logo_lb.png'); cursor:pointer;}
+.icq_wit_logo[class] { background-image:url(http://wit.icq.com/wit/img/logo_lb.png); }
+/* #icq-wit-main{overflow: visible;} */
